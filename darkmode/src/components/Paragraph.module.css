@@ -1,0 +1,10 @@
+.paragraph {
+  overflow-x: auto;
+  font-size: large;
+}
+
+@media screen and (max-width: 667px) {
+  .paragraph {
+    font-size: larger;
+  }
+}
